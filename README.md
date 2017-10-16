@@ -1,4 +1,4 @@
 # Persistent Bugger
 
-[https://www.codewars.com/kata/persistent-bugger/]()
+https://www.codewars.com/kata/persistent-bugger/
 
